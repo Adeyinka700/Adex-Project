@@ -29,9 +29,10 @@ A comprehensive analysis of a fictional retail company's sales data (10k+ record
 * Monthly trend line charts and heatmaps
 * Drill-down charts to explore data hierarchically
 
-**View Interactive Dashboard**: \[Link to Power BI / Tableau Public] **GitHub Repo** (data + code): \[GitHub Link]
+**View Interactive Dashboard**: \[Link to Power BI / Tableau Public] 
+**GitHub Repo** (data + code): \[GitHub Link]
 
-Additional Projects to Include
+## Additional Projects to Include
 
 Here are a few more ideas to round out your portfolio:
 

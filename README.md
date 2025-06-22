@@ -39,8 +39,3 @@ Here are a few more ideas to round out your portfolio:
 2. **A/B Test Analysis for Marketing Campaign (Excel, SQL)**
 3. **HR Analytics: Employee Attrition (Tableau, Python)**
 4. **Web Scraping & Sentiment Analysis of Product Reviews (Python, BeautifulSoup, NLP)**
-
----
-
-Would you like a **customized portfolio template** (PDF or Markdown) with sections like project overview, tech stack, and visuals? I can help you build one based on your real or fictional projects.
-
